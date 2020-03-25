@@ -1,0 +1,17 @@
+{
+  "name": "firstprojectstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "author": "oluwashane",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "querystring": "^0.2.0"
+  }
+}
